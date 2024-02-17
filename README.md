@@ -4,7 +4,7 @@
 This Jupyter Notebook facilitates the detection of abnormalities in chest X-ray images, focusing on 14 types of diseases. The provided code enables users to train models, make predictions, and evaluate performance using the VinBigData Chest X-Ray Abnormalities Detection dataset.
 
 Dataset
-Access the dataset here on Kaggle. Ensure you download and prepare the dataset before running the notebook.
+Access the dataset here (https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/data) on Kaggle. Ensure you download and prepare the dataset before running the notebook.
 
 Usage
 Clone Repository: Clone or download the repository containing the Jupyter Notebook and necessary files.
